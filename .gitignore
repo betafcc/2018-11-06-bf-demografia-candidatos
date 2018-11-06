@@ -1,3 +1,7 @@
+# dont need to keep raw files
+data/raw
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
